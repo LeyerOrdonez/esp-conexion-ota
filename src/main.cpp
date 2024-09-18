@@ -7,7 +7,7 @@
 void setup() {
   Serial.begin(115200);
   Serial.println("Booting");
-  Serial.println("Nueva version");
+  Serial.println("Nueva version doble");
   pinMode(2,OUTPUT);
   digitalWrite(2,LOW);
   setupOTA("ESP32-alvaro-salazar", MI_WIFI, MI_PASS);
@@ -20,6 +20,6 @@ void loop() {
 #endif
   delay(500);
   digitalWrite(2,HIGH);
-  delay(300);
+  delay(800);
   digitalWrite(2,LOW);
 }

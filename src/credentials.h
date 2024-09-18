@@ -1,2 +1,2 @@
-#define MI_WIFI "Hola"
-#define MI_PASS "1234567890"
+#define MI_WIFI "FAMV"
+#define MI_PASS "Andres18"
