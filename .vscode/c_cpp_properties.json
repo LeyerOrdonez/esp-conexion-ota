@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/USUARIO/Documents/PLATAFORMIO/esp-ota-1/include",
-                "c:/Users/USUARIO/Documents/PLATAFORMIO/esp-ota-1/src",
+                "c:/Users/USUARIO/Documents/PLATAFORMIO/Proyectos del curso/esp-conexion-ota/include",
+                "c:/Users/USUARIO/Documents/PLATAFORMIO/Proyectos del curso/esp-conexion-ota/src",
                 "C:/Users/USUARIO/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/USUARIO/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src",
                 "C:/Users/USUARIO/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/USUARIO/Documents/PLATAFORMIO/esp-ota-1/include",
-                    "c:/Users/USUARIO/Documents/PLATAFORMIO/esp-ota-1/src",
+                    "c:/Users/USUARIO/Documents/PLATAFORMIO/Proyectos del curso/esp-conexion-ota/include",
+                    "c:/Users/USUARIO/Documents/PLATAFORMIO/Proyectos del curso/esp-conexion-ota/src",
                     "C:/Users/USUARIO/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/USUARIO/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src",
                     "C:/Users/USUARIO/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
